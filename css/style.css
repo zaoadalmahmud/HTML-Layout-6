@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(26, 3, 3);
+    height: 200px;
+    text-align: center;
+    font-size: 80px;
+    color: rgb(240, 221, 145);
+}
+.main{
+    background-color: crimson;
+    height: 600px;
+    overflow: hidden;
+}
+.left{
+    background-color: tomato;
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+.one{
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+
+}
+.two{
+    background-color: burlywood;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(31, 6, 6);
+}
+.three{
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.four{
+    background-color: burlywood;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(31, 6, 6);
+}
+.five{
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.six{
+    background-color: burlywood;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(31, 6, 6);
+}
+.right{
+    background-color: yellow;
+    height: 100%;
+    width: 70%;
+    float: right;
+}
+
+footer{
+    background-color: teal;
+    height: 200px;
+    text-align: center;
+    font-size: 80px;
+}
+.article{
+    background-color:yellowgreen;
+    height: 50%;
+    font-size: 50px;
+    text-align: center;
+}
+.content{
+    background-color: beige;
+    height: 50%;
+    font-size: 50px;
+    text-align: center;
+}
